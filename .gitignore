@@ -1,0 +1,5 @@
+.venv
+build
+config.json
+*.spec
+*.exe
